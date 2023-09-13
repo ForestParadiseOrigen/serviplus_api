@@ -1,0 +1,127 @@
+{
+  "empresa": [
+    {
+      "idEmpresa": 1,
+      "nombreEmpresa": "nombreEmpresa",
+      "direccionEmpresa": "direccionEmpresa"
+    }
+  ],
+  "empleado": [
+    {
+      "idEmpleado": 1,
+      "nombre": "nombre",
+      "tipoDocumento": "tipoDocumento",
+      "numeroDocumento": "numeroDocumento",
+      "idEmpresa": "idEmpresa"
+    },
+    {
+      "idEmpleado": 2,
+      "nombre": "nombre",
+      "tipoDocumento": "tipoDocumento",
+      "numeroDocumento": "numeroDocumento",
+      "idEmpresa": "idEmpresa"
+    },
+    {
+      "idEmpleado": 3,
+      "nombre": "nombre",
+      "tipoDocumento": "tipoDocumento",
+      "numeroDocumento": "numeroDocumento",
+      "idEmpresa": "idEmpresa"
+    },
+    {
+      "idEmpleado": 4,
+      "nombre": "nombre",
+      "tipoDocumento": "tipoDocumento",
+      "numeroDocumento": "numeroDocumento",
+      "idEmpresa": "idEmpresa"
+    },
+    {
+      "idEmpleado": 5,
+      "nombre": "nombre",
+      "tipoDocumento": "tipoDocumento",
+      "numeroDocumento": "numeroDocumento",
+      "idEmpresa": "idEmpresa"
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "nombre": "nombre",
+      "email": "email",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "nombre": "nombre 2",
+      "email": "email 2",
+      "password": "password 2"
+    },
+    {
+      "id": 3,
+      "nombre": "nombre 2",
+      "email": "email 2",
+      "password": "password 2"
+    },
+    {
+      "id": 4,
+      "nombre": "nombre 2",
+      "email": "email 2",
+      "password": "password 2"
+    },
+    {
+      "id": 5,
+      "nombre": "nombre 2",
+      "email": "email 2",
+      "password": "password 2"
+    },
+    {
+      "nombre": "nombre 111",
+      "email": "email 111",
+      "password": "password 111",
+      "id": 6
+    },
+    {
+      "id": 89,
+      "nombre": "nombre 89",
+      "email": "email 89",
+      "password": "password 89"
+    },
+    {
+      "id": 90
+    },
+    {
+      "id": 91
+    },
+    {
+      "id": 92
+    },
+    {
+      "nombre": "relo",
+      "email": "jero@gmail.com",
+      "password": "1234",
+      "id": 93
+    }
+  ],
+  "ticket": [
+    {
+      "idTicket": 1,
+      "idEmpleado": 3,
+      "id": 3
+    },
+    {
+      "idTicket": 2,
+      "idEmpleado": 5,
+      "id": 5
+    },
+    {
+      "idTicket": 3,
+      "idEmpleado": 3,
+      "id": 4
+    },
+    {
+      "idTicket": 4,
+      "idEmpleado": 2,
+      "id": 2
+    }
+  ]
+}
